@@ -12,5 +12,5 @@
 
 ### 4) 'sh' into kubes node
 ```
-kubectl exec -it <name of kube node>     -n development  sh    
+kubectl exec -it <name of kube node> -n development  sh    
 ```
