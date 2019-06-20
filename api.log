@@ -1,0 +1,58 @@
+2019/06/06 14:06:26.469 [I] [main.go:21]  Beego Run Mode prod
+2019/06/06 14:06:26.475 [I] [app.go:215]  http server Running on http://:8080
+2019/06/06 14:06:43.104 [I] [main.go:21]  Beego Run Mode prod
+2019/06/06 14:06:43.109 [I] [app.go:215]  http server Running on http://:8080
+2019/06/06 14:06:51.054 [I] [main.go:21]  Beego Run Mode prod
+2019/06/06 14:06:51.059 [I] [app.go:215]  http server Running on http://:8080
+2019/06/06 14:19:42.832 [I] [main.go:21]  Beego Run Mode production
+2019/06/06 14:19:42.838 [I] [app.go:215]  http server Running on http://:9294
+2019/06/06 15:40:40.754 [I] [main.go:21]  Beego Run Mode production
+2019/06/06 15:40:40.760 [I] [app.go:215]  http server Running on http://:9294
+2019/06/06 15:40:46.908 [I] [main.go:21]  Beego Run Mode production
+2019/06/06 15:40:46.913 [I] [app.go:215]  http server Running on http://:9294
+2019/06/06 15:40:59.879 [I] [main.go:21]  Beego Run Mode production
+2019/06/06 15:40:59.886 [I] [app.go:215]  http server Running on http://:9294
+2019/06/06 15:42:31.409 [I] [main.go:21]  Beego Run Mode production
+2019/06/06 15:42:31.414 [I] [app.go:215]  http server Running on http://:9294
+2019/06/06 15:42:32.428 [I] [main.go:21]  Beego Run Mode production
+2019/06/06 15:42:32.433 [I] [app.go:215]  http server Running on http://:9294
+2019/06/06 15:42:33.446 [I] [main.go:21]  Beego Run Mode production
+2019/06/06 15:42:33.451 [I] [app.go:215]  http server Running on http://:9294
+2019/06/06 15:44:45.513 [I] [main.go:21]  Beego Run Mode production
+2019/06/06 15:44:45.518 [I] [app.go:215]  http server Running on http://:9294
+2019/06/06 15:45:22.816 [I] [main.go:21]  Beego Run Mode production
+2019/06/06 15:45:22.821 [I] [app.go:215]  http server Running on http://:9294
+2019/06/06 15:45:23.888 [I] [main.go:21]  Beego Run Mode production
+2019/06/06 15:45:23.892 [I] [app.go:215]  http server Running on http://:9294
+2019/06/06 15:45:36.645 [I] [main.go:21]  Beego Run Mode production
+2019/06/06 15:45:36.650 [I] [app.go:215]  http server Running on http://:9294
+2019/06/06 15:45:37.662 [I] [main.go:21]  Beego Run Mode production
+2019/06/06 15:45:37.667 [I] [app.go:215]  http server Running on http://:9294
+2019/06/06 15:45:49.780 [I] [main.go:21]  Beego Run Mode production
+2019/06/06 15:45:49.785 [I] [app.go:215]  http server Running on http://:9294
+2019/06/06 15:45:50.809 [I] [main.go:21]  Beego Run Mode production
+2019/06/06 15:45:50.814 [I] [app.go:215]  http server Running on http://:9294
+2019/06/06 22:09:56.817 [I] [main.go:21]  Beego Run Mode production
+2019/06/06 22:09:56.823 [I] [app.go:215]  http server Running on http://:9294
+2019/06/06 22:11:49.552 [I] [main.go:21]  Beego Run Mode production
+2019/06/06 22:11:49.558 [I] [app.go:215]  http server Running on http://:9294
+2019/06/06 22:11:50.603 [I] [main.go:21]  Beego Run Mode production
+2019/06/06 22:11:50.608 [I] [app.go:215]  http server Running on http://:9294
+2019/06/06 22:12:42.772 [I] [main.go:21]  Beego Run Mode production
+2019/06/06 22:12:42.777 [I] [app.go:215]  http server Running on http://:9294
+2019/06/06 22:14:08.947 [I] [main.go:21]  Beego Run Mode production
+2019/06/06 22:14:08.952 [I] [app.go:215]  http server Running on http://:9294
+2019/06/06 22:15:32.345 [I] [main.go:21]  Beego Run Mode development
+2019/06/06 22:15:32.350 [I] [app.go:215]  http server Running on http://:9294
+2019/06/06 22:16:20.350 [I] [main.go:21]  Beego Run Mode dev
+2019/06/06 22:16:20.355 [I] [app.go:215]  http server Running on http://:8080
+2019/06/06 22:16:37.684 [D] [router.go:933]  |            ::1|[43m 404 [0m|    314.007µs| nomatch|[44m GET     [0m /v1/api/health/
+2019/06/06 22:17:52.710 [D] [router.go:933]  |            ::1|[43m 404 [0m|    221.308µs| nomatch|[44m GET     [0m /v1/api/
+2019/06/06 22:17:55.178 [D] [router.go:933]  |            ::1|[43m 404 [0m|    233.602µs| nomatch|[44m GET     [0m /v1/api
+2019/06/06 22:18:22.136 [D] [router.go:933]  |            ::1|[43m 404 [0m|    169.283µs| nomatch|[44m GET     [0m /v1/api/
+2019/06/06 22:20:14.772 [D] [router.go:933]  |            ::1|[43m 404 [0m|    147.145µs| nomatch|[44m GET     [0m /v1/api/
+2019/06/06 22:20:29.805 [I] [main.go:21]  Beego Run Mode dev
+2019/06/06 22:20:29.810 [I] [app.go:215]  http server Running on http://:8080
+2019/06/06 22:20:40.256 [I] [main.go:21]  Beego Run Mode dev
+2019/06/06 22:20:40.260 [I] [app.go:215]  http server Running on http://:8080
+2019/06/06 22:20:55.359 [D] [router.go:933]  |            ::1|[42m 200 [0m|    182.438µs|   match|[44m GET     [0m /v1/api/health   r:/v1/api/health
