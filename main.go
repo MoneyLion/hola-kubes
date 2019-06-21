@@ -18,6 +18,6 @@ func main() {
 		beego.BConfig.RunMode = "development"
 	}
 
-	logs.Info("Beego Run Mode...", beego.BConfig.RunMode)
+	logs.Info("Beego Run Mode Getting the latest", beego.BConfig.RunMode)
 	beego.Run()
 }

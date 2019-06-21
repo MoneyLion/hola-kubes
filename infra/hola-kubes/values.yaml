@@ -8,6 +8,7 @@ image:
   pullPolicy: IfNotPresent
   repository: 460142493547.dkr.ecr.us-east-1.amazonaws.com/broker-dealer/hola-kubes
   tag: latest
+  version: v1
 
 beegoRunmode: development
 
