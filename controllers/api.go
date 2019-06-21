@@ -22,8 +22,10 @@ func (h *ApiController) Check() {
 		h.ServeJSON(true)
 	}()
 
+	secret := beego.AppConfig.String("secret")
 	h.Data["json"] = map[string]interface{}{
-		"check": "ok",
+		"check":  "ok",
+		"secret": secret,
 	}
 	return
 }
@@ -42,8 +44,10 @@ func (h *ApiController) Home() {
 		h.ServeJSON(true)
 	}()
 
+	secret := beego.AppConfig.String("secret")
 	h.Data["json"] = map[string]interface{}{
 		"message": "hello",
+		"secret":  secret,
 	}
 	return
 }
